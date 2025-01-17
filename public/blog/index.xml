@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on DayTempo</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on DayTempo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 17:18:13 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Wed, 15 Jan 2025 17:18:13 -0500</pubDate>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description>This is a test post with lots to talk about&#xA;header this is stuff to talk about&#xA;head2 more stuff</description>
+    </item>
+  </channel>
+</rss>

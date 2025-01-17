@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DayTempo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DayTempo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 17:18:13 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Wed, 15 Jan 2025 17:18:13 -0500</pubDate>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description>This is a test post with lots to talk about&#xA;header this is stuff to talk about&#xA;head2 more stuff</description>
+    </item>
+    <item>
+      <title>DayTempo Application Data Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&#xA;We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.&#xA;Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/support/</guid>
+      <description>&lt;!DOCTYPE html&gt; DayTempo Support </description>
+    </item>
+  </channel>
+</rss>
