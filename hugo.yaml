@@ -9,7 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -27,8 +27,8 @@ params:
   # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
   # preloader: false
   navbarlogo:
-  # Logo (from static/images/logos/___)
-    image: logos/dt_logo.svg
+  # Logo (from static/images/___)
+    image: logos/dtlogo.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -203,30 +203,19 @@ params:
         title: "Product"
         links:
         - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
+          link: "#section2"
         - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
+          link: /roadmap
       column2:
         title: "Docs"
         links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
+        - text: User guide
+          link: /guide
+        - text: Support
+          link: /support
       column3:
         title: "Blog"
         links:
         - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+          link: /news
+

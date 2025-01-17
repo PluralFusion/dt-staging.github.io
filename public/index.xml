@@ -6,14 +6,28 @@
     <description>Recent content on DayTempo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 17:18:13 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 16:57:28 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/blog/first/</link>
-      <pubDate>Wed, 15 Jan 2025 17:18:13 -0500</pubDate>
-      <guid>http://localhost:1313/blog/first/</guid>
-      <description>This is a test post with lots to talk about&#xA;header this is stuff to talk about&#xA;head2 more stuff</description>
+      <title>Roadmap</title>
+      <link>http://localhost:1313/roadmap/</link>
+      <pubDate>Fri, 17 Jan 2025 16:57:28 -0500</pubDate>
+      <guid>http://localhost:1313/roadmap/</guid>
+      <description>Coming Soon! </description>
+    </item>
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/guide/</link>
+      <pubDate>Fri, 17 Jan 2025 16:56:04 -0500</pubDate>
+      <guid>http://localhost:1313/guide/</guid>
+      <description>Coming Soon! </description>
+    </item>
+    <item>
+      <title>DayTempo News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Fri, 17 Jan 2025 16:50:01 -0500</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>All the News DayTempo Launch - 18 January 2025 </description>
     </item>
     <item>
       <title>DayTempo Application Data Privacy Policy</title>
